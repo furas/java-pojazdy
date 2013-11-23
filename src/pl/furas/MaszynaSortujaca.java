@@ -28,7 +28,7 @@ public class MaszynaSortujaca {
     }
     
     public void sortuj() {
-        Arrays.sort(lista, porownywarka);
+//        Arrays.sort(lista, porownywarka);
     }
     
     public void wypisz() {
