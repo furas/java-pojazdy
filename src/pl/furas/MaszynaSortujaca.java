@@ -29,7 +29,6 @@ public class MaszynaSortujaca {
     
     public void sortuj() {
 //        Arrays.sort(lista, porownywarka);
-            System.out.println("funkcja niegotowa");
     }
     
     public void wypisz() {
